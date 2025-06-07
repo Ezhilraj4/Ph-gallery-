@@ -1,1 +1,1 @@
-# Ph-gallery-
+Add index.html for photo gallery
